@@ -70,7 +70,7 @@ Taylor Levy [pron. tey-ler] is an artist & designer with a penchant for taking t
 
 ![](/static/img/poetichardware/symbiosis.gif) 
 
-[Sebastián Morales](https://www.adorevolution.com/) is an artist, engineer and researcher based in NYC. He develops interactive works at the intersections of robotics, digital culture and living systems. He is currently a new media artist in residence at Mana Contemporary in NJ working on speculative symbiotic relationships between single cells and internet bots. Creating estuaries for them to evolve into new hybrid forms.
+[Sebastián Morales](https://www.adorevolution.com/) Sebastián Morales Prado is a Mexican artist, engineer, and researcher based in NYC. His work delves into technology as a means to question the boundaries of living systems, robotics, and digital culture. Sebastián received a B.S. in Mechanical Engineering from IIT and a MPS form ITP at NYU. His latest works develop speculative symbiotic relationships between single cells and internet bots. Creating estuaries for them to evolve into new hybrid forms.
 
 ![](/static/img/poetichardware/tiri.jpg) 
 
